@@ -38,7 +38,7 @@ I'm a passionate software developer with expertise in a variety of technologies 
 
 ## 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/laura-znotiņa-0870612a9/
+- LinkedIn: https://www.linkedin.com/in/lauraznotina/
 - Email: ljena13@gmail.com
 
 Feel free to explore my repositories and provide feedback. I primarily use Visual Studio Code for my development work. I'm always open to collaboration and new opportunities. Happy coding! 🚀
